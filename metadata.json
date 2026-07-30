@@ -1,0 +1,6 @@
+{
+  "name": "LuxeSpace Interior Design",
+  "description": "Transform your home or workspace with timeless interior designs that blend elegance, comfort, and functionality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
